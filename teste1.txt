@@ -1,2 +1,4 @@
 idade
 nome
+email 
+endereço
